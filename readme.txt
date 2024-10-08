@@ -1,12 +1,3 @@
-*  Polargraph Software
-*
-*  Written by Sandy Noble
-*  Released under GNU License version 3.
-*  http://www.polargraph.co.uk
-*  https://github.com/euphy/polargraph
-
-10th May 2017
-
 This is the source code for the Polargraph software. 
 It contains:
 
@@ -66,10 +57,5 @@ firmware.
 - Adafruit_MotorShield (for those using the Adafruit motor shield v2)
 - UTFT (for the polarshield)
 - UTouch (for the polarshield)
-
-UTouch sometimes benefits from calibration, so if you find your 
-touchscreen is not responding properly to your touch, you might 
-need to do that.  The calibration figures that are in there already 
-are ok for my ITDB02-2.4 screens.
 
 The arduino libraries should be copied into your arduino sketch folder.
